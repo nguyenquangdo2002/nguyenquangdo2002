@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @nguyenquangdo2002
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me ib my email 
+# Hi, I'm Do Nguyen 👋
 
-<!---
-nguyenquangdo2002/nguyenquangdo2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a web developer from Vietnam, focused on building clean and efficient web applications.
+
+## 🛠 Tech Stack
+- **Backend:** ASP.NET Core, C#, Entity Framework
+- **Frontend:** React, JavaScript, HTML/CSS
+- **Database:** PostgreSQL, SQL Server
+- **Tools:** Docker, Git
+
+## 📫 Contact
+- Email: nguyenquangdo2002@gmail.com *(sửa lại đúng email)*
